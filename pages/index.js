@@ -8,7 +8,7 @@ import Playlists from '../components/playlists'
 
 export default function Home() {
   return (
-    <div className="w-full h-screen bg-[#191716]">
+    <div className="w-full  h-full bg-[#191716]">
 <Menu_Bar/>
 <User/>
 <Playlists/>
